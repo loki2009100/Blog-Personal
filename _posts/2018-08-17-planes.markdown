@@ -1,0 +1,19 @@
+---
+title:  "Un comienzo"
+subtitle: "Basta"
+author: "Daniel"
+avatar: ""
+image: ""
+date:   2018-08-17 22:02:12
+---
+
+Ante todo reciban un cordial saludo el día de hoy. Con temor y dudas, escribo estas líneas esperando que este blog ayude de algún modo a la comunidad uesebista primeramente y al mundo hispano parlante en general. Quisiera principalmente responder a dos preguntas que se nos hacen día a día en Caracas y en toda Venezuela 
+
+### ¿Sirven para algo las matemáticas hoy? 
+Bueno, quizás porque sólo se ven sus aplicaciones nos hacen esa pregunta. La respuesta es si, las matemáticas hoy se encuentran en cada arista tecnológica de nuestra vida. Hasta en el folklore popular venezolano hay referencias a ella con expresiones como: "Desastre elevado al cubo por ocho por 2". 
+
+Pero lo cierto es que las matemáticas han dejado de ser solamente el lenguaje de las ciencias para transformarse en un agente propulsor de cambio, ya que algunos de sus avances se cristalizan en verdaderas maravillas tecnológicas como lo son las computadoras, las tablets o incluso nuestros smartphones.    
+
+### ¿Por qué estudias matemáticas?
+He estado algunas veces tentado a responder ante esto un sonoro: ¿TÚ TAMBIÉN LO HACES O NO?. Pero si preguntasen porque estudio la Licenciatura en Matemáticas solo podría hablar desde mi experiencia. No daré una respuesta como las que he encontrado en algunos de mis abuelos matemáticos (si, tenemos padres y abuelos dentro de la disciplina), sino que simplemente las estudio por que no son rutinarias. Todos los días y en cada estudiante que atiendo en una consulta veo un reto o un problema que no se ataca siempre así.
+
