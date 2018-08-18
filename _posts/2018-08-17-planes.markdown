@@ -3,7 +3,7 @@ title:  "Un comienzo"
 subtitle: "Basta"
 author: "Daniel"
 avatar: ""
-image: ""
+image: "https://ep01.epimg.net/elpais/imagenes/2017/03/08/el_aleph/1488970880_865812_1488971722_noticia_normal.jpg"
 date:   2018-08-17 22:02:12
 ---
 
