@@ -1,10 +1,10 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Esto es una prueba"
+subtitle: "jajaja"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/MyAvatar.png"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2018-08-18 22:53:00
 ---
 
 ### Dolor sit amet?
