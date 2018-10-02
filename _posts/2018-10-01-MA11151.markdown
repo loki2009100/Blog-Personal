@@ -3,7 +3,7 @@ title:  "Matemáticas III (Carreras Cortas)"
 subtitle: "Una introducción a las ecuaciones diferenciales"
 author: "Daniel"
 avatar: "img/authors/myAvatar.png"
-image: "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjo0eHZ0ubdAhUGq1kKHcc6CC8QjRx6BAgBEAU&url=http%3A%2F%2Fwww.mexicox.gob.mx%2Fcourses%2Fcourse-v1%3ATECNM%252BAL1P022017AX%252B2017_S1%2Fabout&psig=AOvVaw3VObr23i3ToypI5kG3Ib1P&ust=1538531188435431"
+image: "img/AlgebraLineal.jpg"
 date:   2018-10-01 12:12:12
 ---
 
