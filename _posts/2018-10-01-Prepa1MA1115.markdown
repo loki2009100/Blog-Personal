@@ -13,4 +13,16 @@ El objetivo de esta primera preparaduría es lograr que el alumno comprenda el c
 
 ### Preparaduria 1: Matrices y determinantes
 
-$y_{i} = \beta_{0} + \beta_{1} x_{i} + e_{i}$ 
+1. Considere el sístema de ecuaciones:
+
+$$
+
+\left\{\begin{matrix}
+2x & - & y & + & 3z & = & a\\ 
+3x & + & y & - & 5z & = & b\\ 
+-5x & - & 5y & + & 21z & = & c
+\end{matrix}\right.
+
+$$
+
+Halle las condiciones sobre $a,b,c$ para que el sistema posea solución.
