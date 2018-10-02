@@ -1,0 +1,24 @@
+---
+title:  "Matemáticas III (Carreras Cortas)"
+subtitle: "Una introducción a las ecuaciones diferenciales"
+author: "Daniel"
+avatar: "img/authors/myAvatar.png"
+image: "https://ep01.epimg.net/elpais/imagenes/2017/03/08/el_aleph/1488970880_865812_1488971722_noticia_normal.jpg"
+date:   2018-10-01 12:12:12
+---
+
+### Presentación
+Bienvenidos a una nueva edición del curso MA-1115 de la U.S.B. ofertado por el Departamento de Matemáticas de la mencionada Universidad. En este curso, analizaremos los principios básicos del Álgebra Lineal para así resolver sistemas de ecuaciones así como también introduciremos el concepto de Ecuación Diferencial así como una clasificación de las mismas.
+
+El fin último de este curso es utilizar las herramientas del Álgebra Lineal y las ecuaciones diferenciales más comunes de la Física Matemática para los distintos problemas de modelado que resumen procesos y situaciones físicas de relevancia en el campo de la Ingenieria.
+
+Sin más, y deseandoles un feliz curso se depide
+
+                            Daniel Morales
+                            11-11170
+                            @DA26MR (Ig y Twitter)
+
+### IMPORTANTE
+
+Las clases de preparaduría de esta materia se dictarán en el aula MYS-111A los días Jueves en horario 6-7.
+
