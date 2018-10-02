@@ -1,0 +1,32 @@
+---
+title: "Preparaduria 1"
+author: "Daniel"
+date: "2018-10-01 12:12:12"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+image: img/AlgebraLineal.png
+subtitle: Álgebra de Matrices
+avatar: img/authors/myAvatar.png
+---
+
+### Objetivo
+
+El objetivo de esta primera preparaduría es lograr que el alumno comprenda el concepto de matriz y, utilizando el concepto de determinante y de operaciones de fila de una matriz, las propiedades y características de las mismas. Además, se quiere que el alumno pueda identificar cuando un sistema de ecuaciones lineales posee solución o no.  
+
+### Preparaduria 1: Matrices y determinantes
+
+1. Considere el sístema de ecuaciones:
+
+
+
+\begin{matrix}
+2x & - & y & + & 3z & = & a\\ 
+3x & + & y & - & 5z & = & b\\ 
+-5x & - & 5y & + & 21z & = & c
+\end{matrix}
+
+
+
+Halle las condiciones sobre $a,b,c$ para que el sistema posea solución.
