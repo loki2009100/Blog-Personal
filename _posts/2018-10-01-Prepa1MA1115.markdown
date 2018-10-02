@@ -24,17 +24,21 @@ El objetivo de esta primera preparaduría es lograr que el alumno comprenda el c
 
 2. Hallar los valores de *a* para que el sistema posea solución:
 
-
-![second equation](https://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20x%20%26%20&plus;%20%26%20y%20%26%20&plus;%20%26%20z%20%26%20%3D%20%26%202%5C%5C%20x%20%26%20&plus;%20%26%202y%20%26%20&plus;%20%26%20z%20%26%20%3D%20%26%203%5C%5C%20x%20%26%20&plus;%20%26%20y%20%26%20&plus;%20%26%20%28a%5E%7B3%7D-1%29z%20%26%20%3D%20%26%20a%20%5Cend%7Bmatrix%7D%5Cright.)
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7D%20x%20%26%20&plus;%20%26%20y%20%26%20&plus;%20%26%20z%20%26%20%3D%20%26%202%5C%5C%20x%20%26%20&plus;%20%26%202y%20%26%20&plus;%20%26%20z%20%26%20%3D%20%26%203%5C%5C%20x%20%26%20&plus;%20%26%20y%20%26%20&plus;%20%26%20%28a%5E%7B3%7D-1%29z%20%26%20%3D%20%26%20a%20%5Cend%7Bmatrix%7D%5Cright.">
+</p>
 
 
 3. Calcule el determinante de la matriz:
 
-
-![third equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%202%20%26%200%20%26%203%20%26%201%5C%5C%200%20%26%201%20%26%204%20%26%202%5C%5C%200%20%26%200%20%26%201%20%26%205%5C%5C%201%20%26%202%20%26%203%20%26%200%20%5Cend%7Bpmatrix%7D)
-
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%202%20%26%200%20%26%203%20%26%201%5C%5C%200%20%26%201%20%26%204%20%26%202%5C%5C%200%20%26%200%20%26%201%20%26%205%5C%5C%201%20%26%202%20%26%203%20%26%200%20%5Cend%7Bpmatrix%7D">
+</p>
 
 4. Calcule la matriz inversa de:
 
-![fourth equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%200%20%26%201%20%26%200%5C%5C%201%20%26%200%20%26%200%5C%5C%200%20%26%200%20%26%201%20%5Cend%7Bpmatrix%7D)
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%200%20%26%201%20%26%200%5C%5C%201%20%26%200%20%26%200%5C%5C%200%20%26%200%20%26%201%20%5Cend%7Bpmatrix%7D">
+</p>
+
    
