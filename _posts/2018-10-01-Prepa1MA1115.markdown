@@ -13,16 +13,11 @@ El objetivo de esta primera preparaduría es lograr que el alumno comprenda el c
 
 ### Preparaduria 1: Matrices y determinantes
 
-1. Considere el sístema de ecuaciones:
+1. Halle las condiciones sobre $a,b,c$ para que el siguiente sistema posea solución:
 
-$$
 
-\left\{\begin{matrix}
+\begin{matrix}
 2x & - & y & + & 3z & = & a\\ 
 3x & + & y & - & 5z & = & b\\ 
 -5x & - & 5y & + & 21z & = & c
-\end{matrix}\right.
-
-$$
-
-Halle las condiciones sobre $a,b,c$ para que el sistema posea solución.
+\end{matrix}
