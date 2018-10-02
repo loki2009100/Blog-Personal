@@ -13,4 +13,4 @@ El objetivo de esta primera preparaduría es lograr que el alumno comprenda el c
 
 ### Preparaduria 1: Matrices y determinantes
 
-\( y_i = \beta_{0} + \beta_{1} x_i + e_i \)
+$y_{i} = \beta_{0} + \beta_{1} x_{i} + e_{i}$ 
