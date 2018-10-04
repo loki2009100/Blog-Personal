@@ -4,7 +4,7 @@ subtitle: "Sistemas de Ecuaciones"
 author: "Daniel"
 avatar: "img/authors/myAvatar.png"
 image: "img/AlgebraLineal.jpg"
-date:   2018-10-01 12:12:12
+date:   2018-10-03 12:12:12
 ---
 
 ### Objetivo
@@ -29,17 +29,15 @@ El objetivo de esta segunda preparaduría es lograr que el alumno comprenda las 
 </p>
 
 
-
 2. Diga si la siguente matriz es invertible. En caso de serlo, encuentre su inversa:
 
 <p align="center">
-  <img src="https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%20-1%20%26%202%20%26%20-3%20%5C%5C%202%20%26%201%20%26%200%20%5C%5C%204%20%26%20-2%20%26%205%20%5Cend%7Bpmatrix%7D".>
+  <img src="https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%20-1%20%26%202%20%26%20-3%20%5C%5C%202%20%26%201%20%26%200%20%5C%5C%204%20%26%20-2%20%26%205%20%5Cend%7Bpmatrix%7D.">
 </p>
 
+3. Sean A, B y C matrices invertibles. Calcule <img src ="https://latex.codecogs.com/gif.latex?%28ABC%29%5E%7B-1%7D.">
 
-3. Sean A, B y C matrices invertibles. Calcule <img src ="https://latex.codecogs.com/gif.latex?%28ABC%29%5E%7B-1%7D".>
-
-4. Decimos que una matriz A es simetrica si A es igual a su transpuesta. Demostrar que <img src="https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B1%7D%7B2%7D%28A&plus;A%5E%7Bt%7D%29%29%5E%7Bt%7D%3D%7B%5Cfrac%7B1%7D%7B2%7D%28A&plus;A%5E%7Bt%7D%29%7D".>
+4. Decimos que una matriz A es simetrica si A es igual a su transpuesta. Demostrar que <img src="https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B1%7D%7B2%7D%28A&plus;A%5E%7Bt%7D%29%29%5E%7Bt%7D%3D%7B%5Cfrac%7B1%7D%7B2%7D%28A&plus;A%5E%7Bt%7D%29%7D.">
 
 5. Decimos que una matriz A es antisimétrica si la transpuesta de A es igual a -A. Muestre que en una matriz antisimétrica, todos los elementos de la diagonal principal son iguales a cero
 
