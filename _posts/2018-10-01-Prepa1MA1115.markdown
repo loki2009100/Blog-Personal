@@ -3,7 +3,7 @@ title:  "Preparaduria 1"
 subtitle: "Álgebra de Matrices"
 author: "Daniel"
 avatar: "img/authors/myAvatar.png"
-image: "img/AlgebraLineal.png"
+image: "img/AlgebraLineal.jpg"
 date:   2018-10-01 12:12:12
 ---
 
